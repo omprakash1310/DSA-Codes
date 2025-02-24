@@ -3,16 +3,14 @@ public:
     int maxSubArray(vector<int>& arr) {
         
         // Most Optimal Approach
-        int maxi = INT_MIN;
+        int maxi = arr[0];
         int sum=0;
 
          for (int i = 0; i < arr.size(); i++) {
 
         sum += arr[i];
 
-        if (sum > maxi) {
-            maxi = sum;
-        }
+        maxi= max(maxi, sum);
 
        
         if (sum < 0) {
