@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/omprakash1310/DSA-Codes/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/omprakash1310/DSA-Codes/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/omprakash1310/DSA-Codes/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/omprakash1310/DSA-Codes/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/omprakash1310/DSA-Codes/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/omprakash1310/DSA-Codes/tree/master/0287-find-the-duplicate-number) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/omprakash1310/DSA-Codes/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/omprakash1310/DSA-Codes/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/omprakash1310/DSA-Codes/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/omprakash1310/DSA-Codes/tree/master/0061-rotate-list) |
 | [0328-odd-even-linked-list](https://github.com/omprakash1310/DSA-Codes/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/omprakash1310/DSA-Codes/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
