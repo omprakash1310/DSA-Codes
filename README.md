@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/omprakash1310/DSA-Codes/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/omprakash1310/DSA-Codes/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/omprakash1310/DSA-Codes/tree/master/0287-find-the-duplicate-number) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/omprakash1310/DSA-Codes/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/omprakash1310/DSA-Codes/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -160,4 +161,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/omprakash1310/DSA-Codes/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0328-odd-even-linked-list](https://github.com/omprakash1310/DSA-Codes/tree/master/0328-odd-even-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/omprakash1310/DSA-Codes/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
