@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/omprakash1310/DSA-Codes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/omprakash1310/DSA-Codes/tree/master/0560-subarray-sum-equals-k) |
 | [0907-koko-eating-bananas](https://github.com/omprakash1310/DSA-Codes/tree/master/0907-koko-eating-bananas) |
+| [1319-unique-number-of-occurrences](https://github.com/omprakash1310/DSA-Codes/tree/master/1319-unique-number-of-occurrences) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/omprakash1310/DSA-Codes/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/omprakash1310/DSA-Codes/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/omprakash1310/DSA-Codes/tree/master/1646-kth-missing-positive-number) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/omprakash1310/DSA-Codes/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/omprakash1310/DSA-Codes/tree/master/0560-subarray-sum-equals-k) |
+| [1319-unique-number-of-occurrences](https://github.com/omprakash1310/DSA-Codes/tree/master/1319-unique-number-of-occurrences) |
 | [3227-find-missing-and-repeated-values](https://github.com/omprakash1310/DSA-Codes/tree/master/3227-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
