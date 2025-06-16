@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/omprakash1310/DSA-Codes/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/omprakash1310/DSA-Codes/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/omprakash1310/DSA-Codes/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/omprakash1310/DSA-Codes/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/omprakash1310/DSA-Codes/tree/master/0287-find-the-duplicate-number) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/omprakash1310/DSA-Codes/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/omprakash1310/DSA-Codes/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/omprakash1310/DSA-Codes/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/omprakash1310/DSA-Codes/tree/master/0020-valid-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/omprakash1310/DSA-Codes/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/omprakash1310/DSA-Codes/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/omprakash1310/DSA-Codes/tree/master/1250-longest-common-subsequence) |
 | [1904-second-largest-digit-in-a-string](https://github.com/omprakash1310/DSA-Codes/tree/master/1904-second-largest-digit-in-a-string) |
