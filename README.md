@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/omprakash1310/DSA-Codes/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/omprakash1310/DSA-Codes/tree/master/0048-rotate-image) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/omprakash1310/DSA-Codes/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2032-largest-odd-number-in-string](https://github.com/omprakash1310/DSA-Codes/tree/master/2032-largest-odd-number-in-string) |
 | [3227-find-missing-and-repeated-values](https://github.com/omprakash1310/DSA-Codes/tree/master/3227-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/omprakash1310/DSA-Codes/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/omprakash1310/DSA-Codes/tree/master/0410-split-array-largest-sum) |
+| [2032-largest-odd-number-in-string](https://github.com/omprakash1310/DSA-Codes/tree/master/2032-largest-odd-number-in-string) |
 | [2154-minimum-moves-to-convert-string](https://github.com/omprakash1310/DSA-Codes/tree/master/2154-minimum-moves-to-convert-string) |
 ## Linked List
 |  |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/omprakash1310/DSA-Codes/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/omprakash1310/DSA-Codes/tree/master/1250-longest-common-subsequence) |
 | [1904-second-largest-digit-in-a-string](https://github.com/omprakash1310/DSA-Codes/tree/master/1904-second-largest-digit-in-a-string) |
+| [2032-largest-odd-number-in-string](https://github.com/omprakash1310/DSA-Codes/tree/master/2032-largest-odd-number-in-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/omprakash1310/DSA-Codes/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2154-minimum-moves-to-convert-string](https://github.com/omprakash1310/DSA-Codes/tree/master/2154-minimum-moves-to-convert-string) |
 ## Stack
