@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/omprakash1310/DSA-Codes/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/omprakash1310/DSA-Codes/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/omprakash1310/DSA-Codes/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/omprakash1310/DSA-Codes/tree/master/0118-pascals-triangle) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/omprakash1310/DSA-Codes/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/omprakash1310/DSA-Codes/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/omprakash1310/DSA-Codes/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/omprakash1310/DSA-Codes/tree/master/0151-reverse-words-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/0541-reverse-string-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/omprakash1310/DSA-Codes/tree/master/1078-remove-outermost-parentheses) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/omprakash1310/DSA-Codes/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/omprakash1310/DSA-Codes/tree/master/0046-permutations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/omprakash1310/DSA-Codes/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Heap (Priority Queue)
