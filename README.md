@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/omprakash1310/DSA-Codes/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/omprakash1310/DSA-Codes/tree/master/0151-reverse-words-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/0541-reverse-string-ii) |
+| [0812-rotate-string](https://github.com/omprakash1310/DSA-Codes/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/omprakash1310/DSA-Codes/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/omprakash1310/DSA-Codes/tree/master/1250-longest-common-subsequence) |
 | [1904-second-largest-digit-in-a-string](https://github.com/omprakash1310/DSA-Codes/tree/master/1904-second-largest-digit-in-a-string) |
@@ -261,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/omprakash1310/DSA-Codes/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/omprakash1310/DSA-Codes/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
