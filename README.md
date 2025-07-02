@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/omprakash1310/DSA-Codes/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/omprakash1310/DSA-Codes/tree/master/0067-add-binary) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/omprakash1310/DSA-Codes/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/omprakash1310/DSA-Codes/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Union Find
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/omprakash1310/DSA-Codes/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/omprakash1310/DSA-Codes/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/omprakash1310/DSA-Codes/tree/master/0067-add-binary) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/omprakash1310/DSA-Codes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/omprakash1310/DSA-Codes/tree/master/2032-largest-odd-number-in-string) |
 | [3227-find-missing-and-repeated-values](https://github.com/omprakash1310/DSA-Codes/tree/master/3227-find-missing-and-repeated-values) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/omprakash1310/DSA-Codes/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/omprakash1310/DSA-Codes/tree/master/0287-find-the-duplicate-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/omprakash1310/DSA-Codes/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Greedy
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/omprakash1310/DSA-Codes/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/omprakash1310/DSA-Codes/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/omprakash1310/DSA-Codes/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/omprakash1310/DSA-Codes/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/omprakash1310/DSA-Codes/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/omprakash1310/DSA-Codes/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/0541-reverse-string-ii) |
