@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/omprakash1310/DSA-Codes/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/omprakash1310/DSA-Codes/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/omprakash1310/DSA-Codes/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/omprakash1310/DSA-Codes/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/omprakash1310/DSA-Codes/tree/master/0169-majority-element) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/omprakash1310/DSA-Codes/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/omprakash1310/DSA-Codes/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/omprakash1310/DSA-Codes/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/omprakash1310/DSA-Codes/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/omprakash1310/DSA-Codes/tree/master/0067-add-binary) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/omprakash1310/DSA-Codes/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/omprakash1310/DSA-Codes/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/omprakash1310/DSA-Codes/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/omprakash1310/DSA-Codes/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/omprakash1310/DSA-Codes/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/omprakash1310/DSA-Codes/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/omprakash1310/DSA-Codes/tree/master/0022-generate-parentheses) |
