@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/omprakash1310/DSA-Codes/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/omprakash1310/DSA-Codes/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/omprakash1310/DSA-Codes/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/omprakash1310/DSA-Codes/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/omprakash1310/DSA-Codes/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/omprakash1310/DSA-Codes/tree/master/0067-add-binary) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/omprakash1310/DSA-Codes/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/omprakash1310/DSA-Codes/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/omprakash1310/DSA-Codes/tree/master/0287-find-the-duplicate-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/omprakash1310/DSA-Codes/tree/master/1993-sum-of-all-subset-xor-totals) |
