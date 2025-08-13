@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/omprakash1310/DSA-Codes/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/omprakash1310/DSA-Codes/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/omprakash1310/DSA-Codes/tree/master/0067-add-binary) |
+| [0326-power-of-three](https://github.com/omprakash1310/DSA-Codes/tree/master/0326-power-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/omprakash1310/DSA-Codes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/omprakash1310/DSA-Codes/tree/master/2032-largest-odd-number-in-string) |
 | [3227-find-missing-and-repeated-values](https://github.com/omprakash1310/DSA-Codes/tree/master/3227-find-missing-and-repeated-values) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/omprakash1310/DSA-Codes/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/omprakash1310/DSA-Codes/tree/master/0025-reverse-nodes-in-k-group) |
+| [0326-power-of-three](https://github.com/omprakash1310/DSA-Codes/tree/master/0326-power-of-three) |
 ## String
 |  |
 | ------- |
