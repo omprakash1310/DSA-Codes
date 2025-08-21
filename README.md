@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/omprakash1310/DSA-Codes/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/omprakash1310/DSA-Codes/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/omprakash1310/DSA-Codes/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1628-count-submatrices-with-all-ones](https://github.com/omprakash1310/DSA-Codes/tree/master/1628-count-submatrices-with-all-ones) |
 | [1646-kth-missing-positive-number](https://github.com/omprakash1310/DSA-Codes/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/omprakash1310/DSA-Codes/tree/master/1651-shuffle-string) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/omprakash1310/DSA-Codes/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/omprakash1310/DSA-Codes/tree/master/0867-new-21-game) |
 | [1250-longest-common-subsequence](https://github.com/omprakash1310/DSA-Codes/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/omprakash1310/DSA-Codes/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/omprakash1310/DSA-Codes/tree/master/1628-count-submatrices-with-all-ones) |
 ## Two Pointers
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/omprakash1310/DSA-Codes/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/0240-search-a-2d-matrix-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/omprakash1310/DSA-Codes/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/omprakash1310/DSA-Codes/tree/master/1628-count-submatrices-with-all-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/omprakash1310/DSA-Codes/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/omprakash1310/DSA-Codes/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/omprakash1310/DSA-Codes/tree/master/0032-longest-valid-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/omprakash1310/DSA-Codes/tree/master/1078-remove-outermost-parentheses) |
+| [1628-count-submatrices-with-all-ones](https://github.com/omprakash1310/DSA-Codes/tree/master/1628-count-submatrices-with-all-ones) |
 ## Backtracking
 |  |
 | ------- |
@@ -350,4 +354,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/omprakash1310/DSA-Codes/tree/master/0867-new-21-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/omprakash1310/DSA-Codes/tree/master/1628-count-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
