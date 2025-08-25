@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/omprakash1310/DSA-Codes/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/omprakash1310/DSA-Codes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0493-reverse-pairs](https://github.com/omprakash1310/DSA-Codes/tree/master/0493-reverse-pairs) |
+| [0498-diagonal-traverse](https://github.com/omprakash1310/DSA-Codes/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/omprakash1310/DSA-Codes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/omprakash1310/DSA-Codes/tree/master/0560-subarray-sum-equals-k) |
 | [0679-24-game](https://github.com/omprakash1310/DSA-Codes/tree/master/0679-24-game) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/omprakash1310/DSA-Codes/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/omprakash1310/DSA-Codes/tree/master/0067-add-binary) |
+| [0498-diagonal-traverse](https://github.com/omprakash1310/DSA-Codes/tree/master/0498-diagonal-traverse) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/omprakash1310/DSA-Codes/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/omprakash1310/DSA-Codes/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Union Find
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/omprakash1310/DSA-Codes/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/omprakash1310/DSA-Codes/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/0240-search-a-2d-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/omprakash1310/DSA-Codes/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/omprakash1310/DSA-Codes/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/omprakash1310/DSA-Codes/tree/master/1628-count-submatrices-with-all-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/omprakash1310/DSA-Codes/tree/master/3227-find-missing-and-repeated-values) |
