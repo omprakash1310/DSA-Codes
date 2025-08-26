@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/omprakash1310/DSA-Codes/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/omprakash1310/DSA-Codes/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/omprakash1310/DSA-Codes/tree/master/3227-find-missing-and-repeated-values) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/omprakash1310/DSA-Codes/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/omprakash1310/DSA-Codes/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Hash Table
