@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/omprakash1310/DSA-Codes/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/omprakash1310/DSA-Codes/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/0047-permutations-ii) |
+| [0077-combinations](https://github.com/omprakash1310/DSA-Codes/tree/master/0077-combinations) |
 | [0679-24-game](https://github.com/omprakash1310/DSA-Codes/tree/master/0679-24-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/omprakash1310/DSA-Codes/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Heap (Priority Queue)
