@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/omprakash1310/DSA-Codes/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/omprakash1310/DSA-Codes/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/omprakash1310/DSA-Codes/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/omprakash1310/DSA-Codes/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/omprakash1310/DSA-Codes/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/omprakash1310/DSA-Codes/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/omprakash1310/DSA-Codes/tree/master/0242-valid-anagram) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/omprakash1310/DSA-Codes/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/omprakash1310/DSA-Codes/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/omprakash1310/DSA-Codes/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/omprakash1310/DSA-Codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/omprakash1310/DSA-Codes/tree/master/1078-remove-outermost-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/omprakash1310/DSA-Codes/tree/master/1628-count-submatrices-with-all-ones) |
