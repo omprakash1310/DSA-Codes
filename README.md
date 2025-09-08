@@ -412,14 +412,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/omprakash1310/DSA-Codes/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/omprakash1310/DSA-Codes/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/omprakash1310/DSA-Codes/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/omprakash1310/DSA-Codes/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/omprakash1310/DSA-Codes/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/omprakash1310/DSA-Codes/tree/master/0100-same-tree) |
 ## Memoization
 |  |
 | ------- |
@@ -429,4 +432,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/omprakash1310/DSA-Codes/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/omprakash1310/DSA-Codes/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
