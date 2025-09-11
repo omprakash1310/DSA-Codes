@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/omprakash1310/DSA-Codes/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/omprakash1310/DSA-Codes/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/omprakash1310/DSA-Codes/tree/master/3748-sort-matrix-by-diagonals) |
+| [3790-fruits-into-baskets-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/omprakash1310/DSA-Codes/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/omprakash1310/DSA-Codes/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/omprakash1310/DSA-Codes/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3790-fruits-into-baskets-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/3790-fruits-into-baskets-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/omprakash1310/DSA-Codes/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/omprakash1310/DSA-Codes/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/omprakash1310/DSA-Codes/tree/master/1646-kth-missing-positive-number) |
+| [3790-fruits-into-baskets-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/omprakash1310/DSA-Codes/tree/master/0493-reverse-pairs) |
+| [3790-fruits-into-baskets-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/3790-fruits-into-baskets-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -271,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/omprakash1310/DSA-Codes/tree/master/0493-reverse-pairs) |
+| [3790-fruits-into-baskets-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
