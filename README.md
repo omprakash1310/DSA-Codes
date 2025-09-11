@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/omprakash1310/DSA-Codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/omprakash1310/DSA-Codes/tree/master/0242-valid-anagram) |
+| [2887-sort-vowels-in-a-string](https://github.com/omprakash1310/DSA-Codes/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/omprakash1310/DSA-Codes/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/omprakash1310/DSA-Codes/tree/master/3748-sort-matrix-by-diagonals) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/omprakash1310/DSA-Codes/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2154-minimum-moves-to-convert-string](https://github.com/omprakash1310/DSA-Codes/tree/master/2154-minimum-moves-to-convert-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/omprakash1310/DSA-Codes/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/omprakash1310/DSA-Codes/tree/master/2887-sort-vowels-in-a-string) |
 ## Stack
 |  |
 | ------- |
