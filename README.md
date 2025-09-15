@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/omprakash1310/DSA-Codes/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/omprakash1310/DSA-Codes/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/omprakash1310/DSA-Codes/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/omprakash1310/DSA-Codes/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/omprakash1310/DSA-Codes/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/omprakash1310/DSA-Codes/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/omprakash1310/DSA-Codes/tree/master/0231-power-of-two) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/omprakash1310/DSA-Codes/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/omprakash1310/DSA-Codes/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/omprakash1310/DSA-Codes/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/omprakash1310/DSA-Codes/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/omprakash1310/DSA-Codes/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/omprakash1310/DSA-Codes/tree/master/0342-power-of-four) |
