@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/omprakash1310/DSA-Codes/tree/master/0560-subarray-sum-equals-k) |
 | [0817-design-hashmap](https://github.com/omprakash1310/DSA-Codes/tree/master/0817-design-hashmap) |
 | [1006-vowel-spellchecker](https://github.com/omprakash1310/DSA-Codes/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/omprakash1310/DSA-Codes/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/omprakash1310/DSA-Codes/tree/master/1319-unique-number-of-occurrences) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/omprakash1310/DSA-Codes/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1904-second-largest-digit-in-a-string](https://github.com/omprakash1310/DSA-Codes/tree/master/1904-second-largest-digit-in-a-string) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/omprakash1310/DSA-Codes/tree/master/1006-vowel-spellchecker) |
 | [1078-remove-outermost-parentheses](https://github.com/omprakash1310/DSA-Codes/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/omprakash1310/DSA-Codes/tree/master/1250-longest-common-subsequence) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/omprakash1310/DSA-Codes/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1651-shuffle-string](https://github.com/omprakash1310/DSA-Codes/tree/master/1651-shuffle-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/omprakash1310/DSA-Codes/tree/master/1904-second-largest-digit-in-a-string) |
 | [2032-largest-odd-number-in-string](https://github.com/omprakash1310/DSA-Codes/tree/master/2032-largest-odd-number-in-string) |
