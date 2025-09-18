@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/omprakash1310/DSA-Codes/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/omprakash1310/DSA-Codes/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/omprakash1310/DSA-Codes/tree/master/2887-sort-vowels-in-a-string) |
+| [3396-valid-word](https://github.com/omprakash1310/DSA-Codes/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/omprakash1310/DSA-Codes/tree/master/3462-vowels-game-in-a-string) |
 ## Stack
 |  |
