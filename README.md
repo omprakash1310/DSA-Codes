@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/omprakash1310/DSA-Codes/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/omprakash1310/DSA-Codes/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/3790-fruits-into-baskets-ii) |
+| [3797-design-spreadsheet](https://github.com/omprakash1310/DSA-Codes/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/omprakash1310/DSA-Codes/tree/master/2429-design-a-food-rating-system) |
 | [3227-find-missing-and-repeated-values](https://github.com/omprakash1310/DSA-Codes/tree/master/3227-find-missing-and-repeated-values) |
 | [3678-design-task-manager](https://github.com/omprakash1310/DSA-Codes/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/omprakash1310/DSA-Codes/tree/master/3797-design-spreadsheet) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/omprakash1310/DSA-Codes/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/omprakash1310/DSA-Codes/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/omprakash1310/DSA-Codes/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/omprakash1310/DSA-Codes/tree/master/3797-design-spreadsheet) |
 ## Math
 |  |
 | ------- |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/omprakash1310/DSA-Codes/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/omprakash1310/DSA-Codes/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/omprakash1310/DSA-Codes/tree/master/3462-vowels-game-in-a-string) |
+| [3797-design-spreadsheet](https://github.com/omprakash1310/DSA-Codes/tree/master/3797-design-spreadsheet) |
 ## Stack
 |  |
 | ------- |
@@ -409,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/omprakash1310/DSA-Codes/tree/master/0817-design-hashmap) |
 | [2429-design-a-food-rating-system](https://github.com/omprakash1310/DSA-Codes/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/omprakash1310/DSA-Codes/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/omprakash1310/DSA-Codes/tree/master/3797-design-spreadsheet) |
 ## Hash Function
 |  |
 | ------- |
