@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/omprakash1310/DSA-Codes/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/omprakash1310/DSA-Codes/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/omprakash1310/DSA-Codes/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/omprakash1310/DSA-Codes/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3227-find-missing-and-repeated-values](https://github.com/omprakash1310/DSA-Codes/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/omprakash1310/DSA-Codes/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/omprakash1310/DSA-Codes/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/omprakash1310/DSA-Codes/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/omprakash1310/DSA-Codes/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/omprakash1310/DSA-Codes/tree/master/1646-kth-missing-positive-number) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/omprakash1310/DSA-Codes/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3790-fruits-into-baskets-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/3790-fruits-into-baskets-ii) |
 | [3827-implement-router](https://github.com/omprakash1310/DSA-Codes/tree/master/3827-implement-router) |
 ## Binary Indexed Tree
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/omprakash1310/DSA-Codes/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/omprakash1310/DSA-Codes/tree/master/0342-power-of-four) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/omprakash1310/DSA-Codes/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/omprakash1310/DSA-Codes/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/omprakash1310/DSA-Codes/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Greedy
 |  |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0867-new-21-game](https://github.com/omprakash1310/DSA-Codes/tree/master/0867-new-21-game) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/omprakash1310/DSA-Codes/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/omprakash1310/DSA-Codes/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/omprakash1310/DSA-Codes/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Probability and Statistics
 |  |
