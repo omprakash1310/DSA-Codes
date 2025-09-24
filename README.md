@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/omprakash1310/DSA-Codes/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/omprakash1310/DSA-Codes/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/omprakash1310/DSA-Codes/tree/master/0128-longest-consecutive-sequence) |
+| [0166-fraction-to-recurring-decimal](https://github.com/omprakash1310/DSA-Codes/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/omprakash1310/DSA-Codes/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/omprakash1310/DSA-Codes/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/omprakash1310/DSA-Codes/tree/master/0217-contains-duplicate) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/omprakash1310/DSA-Codes/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/omprakash1310/DSA-Codes/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/omprakash1310/DSA-Codes/tree/master/0067-add-binary) |
+| [0166-fraction-to-recurring-decimal](https://github.com/omprakash1310/DSA-Codes/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/omprakash1310/DSA-Codes/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/omprakash1310/DSA-Codes/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/omprakash1310/DSA-Codes/tree/master/0342-power-of-four) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/omprakash1310/DSA-Codes/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/omprakash1310/DSA-Codes/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/omprakash1310/DSA-Codes/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/omprakash1310/DSA-Codes/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/omprakash1310/DSA-Codes/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/omprakash1310/DSA-Codes/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/omprakash1310/DSA-Codes/tree/master/0345-reverse-vowels-of-a-string) |
