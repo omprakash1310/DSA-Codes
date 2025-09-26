@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/omprakash1310/DSA-Codes/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/omprakash1310/DSA-Codes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/omprakash1310/DSA-Codes/tree/master/0560-subarray-sum-equals-k) |
+| [0611-valid-triangle-number](https://github.com/omprakash1310/DSA-Codes/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/omprakash1310/DSA-Codes/tree/master/0679-24-game) |
 | [0817-design-hashmap](https://github.com/omprakash1310/DSA-Codes/tree/master/0817-design-hashmap) |
 | [0907-koko-eating-bananas](https://github.com/omprakash1310/DSA-Codes/tree/master/0907-koko-eating-bananas) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/omprakash1310/DSA-Codes/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/omprakash1310/DSA-Codes/tree/master/0242-valid-anagram) |
+| [0611-valid-triangle-number](https://github.com/omprakash1310/DSA-Codes/tree/master/0611-valid-triangle-number) |
 | [2887-sort-vowels-in-a-string](https://github.com/omprakash1310/DSA-Codes/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/omprakash1310/DSA-Codes/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/omprakash1310/DSA-Codes/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/omprakash1310/DSA-Codes/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/0541-reverse-string-ii) |
+| [0611-valid-triangle-number](https://github.com/omprakash1310/DSA-Codes/tree/master/0611-valid-triangle-number) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/omprakash1310/DSA-Codes/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/omprakash1310/DSA-Codes/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/omprakash1310/DSA-Codes/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/omprakash1310/DSA-Codes/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/omprakash1310/DSA-Codes/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/omprakash1310/DSA-Codes/tree/master/0611-valid-triangle-number) |
 | [0907-koko-eating-bananas](https://github.com/omprakash1310/DSA-Codes/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/omprakash1310/DSA-Codes/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/omprakash1310/DSA-Codes/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -335,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/omprakash1310/DSA-Codes/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/omprakash1310/DSA-Codes/tree/master/0410-split-array-largest-sum) |
+| [0611-valid-triangle-number](https://github.com/omprakash1310/DSA-Codes/tree/master/0611-valid-triangle-number) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/omprakash1310/DSA-Codes/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/omprakash1310/DSA-Codes/tree/master/1917-maximum-average-pass-ratio) |
 | [2032-largest-odd-number-in-string](https://github.com/omprakash1310/DSA-Codes/tree/master/2032-largest-odd-number-in-string) |
