@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/omprakash1310/DSA-Codes/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/omprakash1310/DSA-Codes/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/omprakash1310/DSA-Codes/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/omprakash1310/DSA-Codes/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1651-shuffle-string](https://github.com/omprakash1310/DSA-Codes/tree/master/1651-shuffle-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/omprakash1310/DSA-Codes/tree/master/1904-second-largest-digit-in-a-string) |
 | [2032-largest-odd-number-in-string](https://github.com/omprakash1310/DSA-Codes/tree/master/2032-largest-odd-number-in-string) |
