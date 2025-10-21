@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/omprakash1310/DSA-Codes/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/omprakash1310/DSA-Codes/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/omprakash1310/DSA-Codes/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/omprakash1310/DSA-Codes/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/omprakash1310/DSA-Codes/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/omprakash1310/DSA-Codes/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/omprakash1310/DSA-Codes/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/omprakash1310/DSA-Codes/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/omprakash1310/DSA-Codes/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/omprakash1310/DSA-Codes/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/omprakash1310/DSA-Codes/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/omprakash1310/DSA-Codes/tree/master/3748-sort-matrix-by-diagonals) |
 ## Counting
 |  |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/omprakash1310/DSA-Codes/tree/master/0560-subarray-sum-equals-k) |
 | [2529-range-product-queries-of-powers](https://github.com/omprakash1310/DSA-Codes/tree/master/2529-range-product-queries-of-powers) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/omprakash1310/DSA-Codes/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/omprakash1310/DSA-Codes/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/omprakash1310/DSA-Codes/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Binary Search
 |  |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/omprakash1310/DSA-Codes/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/omprakash1310/DSA-Codes/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/omprakash1310/DSA-Codes/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/omprakash1310/DSA-Codes/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/3790-fruits-into-baskets-ii) |
 | [3827-implement-router](https://github.com/omprakash1310/DSA-Codes/tree/master/3827-implement-router) |
 ## Binary Indexed Tree
@@ -567,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/omprakash1310/DSA-Codes/tree/master/0867-new-21-game) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/omprakash1310/DSA-Codes/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/omprakash1310/DSA-Codes/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/omprakash1310/DSA-Codes/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/omprakash1310/DSA-Codes/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Probability and Statistics
 |  |
