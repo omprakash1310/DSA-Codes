@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/omprakash1310/DSA-Codes/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/omprakash1310/DSA-Codes/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2529-range-product-queries-of-powers](https://github.com/omprakash1310/DSA-Codes/tree/master/2529-range-product-queries-of-powers) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/omprakash1310/DSA-Codes/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3227-find-missing-and-repeated-values](https://github.com/omprakash1310/DSA-Codes/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/omprakash1310/DSA-Codes/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/omprakash1310/DSA-Codes/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/omprakash1310/DSA-Codes/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/omprakash1310/DSA-Codes/tree/master/0560-subarray-sum-equals-k) |
 | [2529-range-product-queries-of-powers](https://github.com/omprakash1310/DSA-Codes/tree/master/2529-range-product-queries-of-powers) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/omprakash1310/DSA-Codes/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/omprakash1310/DSA-Codes/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/omprakash1310/DSA-Codes/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/omprakash1310/DSA-Codes/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/omprakash1310/DSA-Codes/tree/master/1646-kth-missing-positive-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/omprakash1310/DSA-Codes/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/omprakash1310/DSA-Codes/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/omprakash1310/DSA-Codes/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/omprakash1310/DSA-Codes/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/omprakash1310/DSA-Codes/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/omprakash1310/DSA-Codes/tree/master/1917-maximum-average-pass-ratio) |
 | [2032-largest-odd-number-in-string](https://github.com/omprakash1310/DSA-Codes/tree/master/2032-largest-odd-number-in-string) |
 | [2154-minimum-moves-to-convert-string](https://github.com/omprakash1310/DSA-Codes/tree/master/2154-minimum-moves-to-convert-string) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/omprakash1310/DSA-Codes/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/omprakash1310/DSA-Codes/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/omprakash1310/DSA-Codes/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Linked List
@@ -616,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/omprakash1310/DSA-Codes/tree/master/0867-new-21-game) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/omprakash1310/DSA-Codes/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/omprakash1310/DSA-Codes/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/omprakash1310/DSA-Codes/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/omprakash1310/DSA-Codes/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/omprakash1310/DSA-Codes/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -675,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/omprakash1310/DSA-Codes/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/omprakash1310/DSA-Codes/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3827-implement-router](https://github.com/omprakash1310/DSA-Codes/tree/master/3827-implement-router) |
 ## Brainteaser
 |  |
