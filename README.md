@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/omprakash1310/DSA-Codes/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/omprakash1310/DSA-Codes/tree/master/0679-24-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/omprakash1310/DSA-Codes/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0759-set-intersection-size-at-least-two](https://github.com/omprakash1310/DSA-Codes/tree/master/0759-set-intersection-size-at-least-two) |
 | [0794-swim-in-rising-water](https://github.com/omprakash1310/DSA-Codes/tree/master/0794-swim-in-rising-water) |
 | [0817-design-hashmap](https://github.com/omprakash1310/DSA-Codes/tree/master/0817-design-hashmap) |
 | [0830-largest-triangle-area](https://github.com/omprakash1310/DSA-Codes/tree/master/0830-largest-triangle-area) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/omprakash1310/DSA-Codes/tree/master/0242-valid-anagram) |
 | [0611-valid-triangle-number](https://github.com/omprakash1310/DSA-Codes/tree/master/0611-valid-triangle-number) |
+| [0759-set-intersection-size-at-least-two](https://github.com/omprakash1310/DSA-Codes/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-largest-perimeter-triangle](https://github.com/omprakash1310/DSA-Codes/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/omprakash1310/DSA-Codes/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/omprakash1310/DSA-Codes/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/omprakash1310/DSA-Codes/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/omprakash1310/DSA-Codes/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/omprakash1310/DSA-Codes/tree/master/0611-valid-triangle-number) |
+| [0759-set-intersection-size-at-least-two](https://github.com/omprakash1310/DSA-Codes/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-largest-perimeter-triangle](https://github.com/omprakash1310/DSA-Codes/tree/master/1018-largest-perimeter-triangle) |
 | [1612-avoid-flood-in-the-city](https://github.com/omprakash1310/DSA-Codes/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/omprakash1310/DSA-Codes/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
