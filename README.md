@@ -686,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/omprakash1310/DSA-Codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/omprakash1310/DSA-Codes/tree/master/0100-same-tree) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/omprakash1310/DSA-Codes/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -695,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/omprakash1310/DSA-Codes/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/omprakash1310/DSA-Codes/tree/master/0794-swim-in-rising-water) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/omprakash1310/DSA-Codes/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/omprakash1310/DSA-Codes/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/omprakash1310/DSA-Codes/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
