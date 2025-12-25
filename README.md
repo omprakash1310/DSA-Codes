@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/omprakash1310/DSA-Codes/tree/master/0794-swim-in-rising-water) |
 | [0817-design-hashmap](https://github.com/omprakash1310/DSA-Codes/tree/master/0817-design-hashmap) |
 | [0830-largest-triangle-area](https://github.com/omprakash1310/DSA-Codes/tree/master/0830-largest-triangle-area) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/omprakash1310/DSA-Codes/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0907-koko-eating-bananas](https://github.com/omprakash1310/DSA-Codes/tree/master/0907-koko-eating-bananas) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/omprakash1310/DSA-Codes/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/omprakash1310/DSA-Codes/tree/master/0474-ones-and-zeroes) |
 | [0826-soup-servings](https://github.com/omprakash1310/DSA-Codes/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/omprakash1310/DSA-Codes/tree/master/0867-new-21-game) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/omprakash1310/DSA-Codes/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/omprakash1310/DSA-Codes/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/omprakash1310/DSA-Codes/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1250-longest-common-subsequence](https://github.com/omprakash1310/DSA-Codes/tree/master/1250-longest-common-subsequence) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/omprakash1310/DSA-Codes/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/omprakash1310/DSA-Codes/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/omprakash1310/DSA-Codes/tree/master/0342-power-of-four) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/omprakash1310/DSA-Codes/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/omprakash1310/DSA-Codes/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/omprakash1310/DSA-Codes/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/omprakash1310/DSA-Codes/tree/master/1930-unique-length-3-palindromic-subsequences) |
