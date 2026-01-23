@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/omprakash1310/DSA-Codes/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/omprakash1310/DSA-Codes/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/omprakash1310/DSA-Codes/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/omprakash1310/DSA-Codes/tree/master/3531-count-covered-buildings) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/omprakash1310/DSA-Codes/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/omprakash1310/DSA-Codes/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/omprakash1310/DSA-Codes/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/omprakash1310/DSA-Codes/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/omprakash1310/DSA-Codes/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/omprakash1310/DSA-Codes/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/omprakash1310/DSA-Codes/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/omprakash1310/DSA-Codes/tree/master/3583-count-special-triplets) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/3336-water-bottles-ii) |
 | [3433-count-mentions-per-user](https://github.com/omprakash1310/DSA-Codes/tree/master/3433-count-mentions-per-user) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/omprakash1310/DSA-Codes/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/omprakash1310/DSA-Codes/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/omprakash1310/DSA-Codes/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/3790-fruits-into-baskets-ii) |
@@ -545,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-design-movie-rental-system](https://github.com/omprakash1310/DSA-Codes/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/omprakash1310/DSA-Codes/tree/master/2429-design-a-food-rating-system) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/omprakash1310/DSA-Codes/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3678-design-task-manager](https://github.com/omprakash1310/DSA-Codes/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/3790-fruits-into-baskets-ii) |
 | [3827-implement-router](https://github.com/omprakash1310/DSA-Codes/tree/master/3827-implement-router) |
@@ -612,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/omprakash1310/DSA-Codes/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/omprakash1310/DSA-Codes/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/omprakash1310/DSA-Codes/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -720,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/omprakash1310/DSA-Codes/tree/master/2054-two-best-non-overlapping-events) |
 | [2429-design-a-food-rating-system](https://github.com/omprakash1310/DSA-Codes/tree/master/2429-design-a-food-rating-system) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/omprakash1310/DSA-Codes/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/omprakash1310/DSA-Codes/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/omprakash1310/DSA-Codes/tree/master/3678-design-task-manager) |
@@ -913,4 +919,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/omprakash1310/DSA-Codes/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
