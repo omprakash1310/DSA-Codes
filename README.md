@@ -851,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/omprakash1310/DSA-Codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/omprakash1310/DSA-Codes/tree/master/0100-same-tree) |
+| [0110-balanced-binary-tree](https://github.com/omprakash1310/DSA-Codes/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/omprakash1310/DSA-Codes/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/omprakash1310/DSA-Codes/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/omprakash1310/DSA-Codes/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -861,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/omprakash1310/DSA-Codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/omprakash1310/DSA-Codes/tree/master/0100-same-tree) |
+| [0110-balanced-binary-tree](https://github.com/omprakash1310/DSA-Codes/tree/master/0110-balanced-binary-tree) |
 | [0133-clone-graph](https://github.com/omprakash1310/DSA-Codes/tree/master/0133-clone-graph) |
 | [0417-pacific-atlantic-water-flow](https://github.com/omprakash1310/DSA-Codes/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/omprakash1310/DSA-Codes/tree/master/0794-swim-in-rising-water) |
@@ -878,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/omprakash1310/DSA-Codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/omprakash1310/DSA-Codes/tree/master/0100-same-tree) |
+| [0110-balanced-binary-tree](https://github.com/omprakash1310/DSA-Codes/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/omprakash1310/DSA-Codes/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/omprakash1310/DSA-Codes/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/omprakash1310/DSA-Codes/tree/master/1339-maximum-product-of-splitted-binary-tree) |
