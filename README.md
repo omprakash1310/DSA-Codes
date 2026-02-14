@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/omprakash1310/DSA-Codes/tree/master/0410-split-array-largest-sum) |
 | [0474-ones-and-zeroes](https://github.com/omprakash1310/DSA-Codes/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/omprakash1310/DSA-Codes/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0799-champagne-tower](https://github.com/omprakash1310/DSA-Codes/tree/master/0799-champagne-tower) |
 | [0826-soup-servings](https://github.com/omprakash1310/DSA-Codes/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/omprakash1310/DSA-Codes/tree/master/0867-new-21-game) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/omprakash1310/DSA-Codes/tree/master/0898-bitwise-ors-of-subarrays) |
