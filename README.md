@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/omprakash1310/DSA-Codes/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/omprakash1310/DSA-Codes/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/omprakash1310/DSA-Codes/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/omprakash1310/DSA-Codes/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/omprakash1310/DSA-Codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/omprakash1310/DSA-Codes/tree/master/0493-reverse-pairs) |
@@ -597,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/omprakash1310/DSA-Codes/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/omprakash1310/DSA-Codes/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/omprakash1310/DSA-Codes/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/omprakash1310/DSA-Codes/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/omprakash1310/DSA-Codes/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/omprakash1310/DSA-Codes/tree/master/0342-power-of-four) |
