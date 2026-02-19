@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/omprakash1310/DSA-Codes/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/0541-reverse-string-ii) |
 | [0611-valid-triangle-number](https://github.com/omprakash1310/DSA-Codes/tree/master/0611-valid-triangle-number) |
+| [0696-count-binary-substrings](https://github.com/omprakash1310/DSA-Codes/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/omprakash1310/DSA-Codes/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/omprakash1310/DSA-Codes/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/omprakash1310/DSA-Codes/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -697,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/omprakash1310/DSA-Codes/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/omprakash1310/DSA-Codes/tree/master/0474-ones-and-zeroes) |
 | [0541-reverse-string-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/0541-reverse-string-ii) |
+| [0696-count-binary-substrings](https://github.com/omprakash1310/DSA-Codes/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/omprakash1310/DSA-Codes/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0812-rotate-string](https://github.com/omprakash1310/DSA-Codes/tree/master/0812-rotate-string) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/0955-delete-columns-to-make-sorted-ii) |
