@@ -737,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/omprakash1310/DSA-Codes/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/omprakash1310/DSA-Codes/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/omprakash1310/DSA-Codes/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/omprakash1310/DSA-Codes/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/omprakash1310/DSA-Codes/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/omprakash1310/DSA-Codes/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1651-shuffle-string](https://github.com/omprakash1310/DSA-Codes/tree/master/1651-shuffle-string) |
@@ -793,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/omprakash1310/DSA-Codes/tree/master/0077-combinations) |
 | [0401-binary-watch](https://github.com/omprakash1310/DSA-Codes/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/omprakash1310/DSA-Codes/tree/master/0679-24-game) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/omprakash1310/DSA-Codes/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/omprakash1310/DSA-Codes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/omprakash1310/DSA-Codes/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Heap (Priority Queue)
