@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/omprakash1310/DSA-Codes/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/omprakash1310/DSA-Codes/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/omprakash1310/DSA-Codes/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2069-walking-robot-simulation-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/omprakash1310/DSA-Codes/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/omprakash1310/DSA-Codes/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/omprakash1310/DSA-Codes/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -879,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/omprakash1310/DSA-Codes/tree/master/0817-design-hashmap) |
 | [1622-fancy-sequence](https://github.com/omprakash1310/DSA-Codes/tree/master/1622-fancy-sequence) |
 | [2023-design-movie-rental-system](https://github.com/omprakash1310/DSA-Codes/tree/master/2023-design-movie-rental-system) |
+| [2069-walking-robot-simulation-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/2069-walking-robot-simulation-ii) |
 | [2429-design-a-food-rating-system](https://github.com/omprakash1310/DSA-Codes/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/omprakash1310/DSA-Codes/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/omprakash1310/DSA-Codes/tree/master/3797-design-spreadsheet) |
