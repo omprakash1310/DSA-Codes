@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-design-movie-rental-system](https://github.com/omprakash1310/DSA-Codes/tree/master/2023-design-movie-rental-system) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/omprakash1310/DSA-Codes/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2054-two-best-non-overlapping-events](https://github.com/omprakash1310/DSA-Codes/tree/master/2054-two-best-non-overlapping-events) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/omprakash1310/DSA-Codes/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/omprakash1310/DSA-Codes/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/omprakash1310/DSA-Codes/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/omprakash1310/DSA-Codes/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -728,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/omprakash1310/DSA-Codes/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/omprakash1310/DSA-Codes/tree/master/1917-maximum-average-pass-ratio) |
 | [2032-largest-odd-number-in-string](https://github.com/omprakash1310/DSA-Codes/tree/master/2032-largest-odd-number-in-string) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/omprakash1310/DSA-Codes/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/omprakash1310/DSA-Codes/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2154-minimum-moves-to-convert-string](https://github.com/omprakash1310/DSA-Codes/tree/master/2154-minimum-moves-to-convert-string) |
 | [2573-find-the-string-with-lcp](https://github.com/omprakash1310/DSA-Codes/tree/master/2573-find-the-string-with-lcp) |
