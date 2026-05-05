@@ -1,43 +1,24 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
-class Solution {
+class Solution{
 public:
-    ListNode* rotateRight(ListNode* head, int k) {
-        if (!head || !head->next || k == 0) return head;
+    ListNode* rotateRight(ListNode* head,int k){
+        if(!head||!head->next||k==0) return head; 
 
-        // Count length and get tail
-        ListNode* tail = head;
-        int length = 1;
-        while (tail->next) {
-            tail = tail->next;
-            length++;
-        }
+        int len=1;
+        ListNode* tail=head;
+        while(tail->next){ tail=tail->next; len++; } 
 
-        // Normalize k
-        k = k % length;
-        if (k == 0) return head;
+        k%=len;
+        if(k==0) return head; 
 
-        // Make list circular
-        tail->next = head;
+        tail->next=head; // circular
 
-        // Find new tail: (length - k - 1) steps from head
-        ListNode* newTail = head;
-        for (int i = 0; i < length - k - 1; i++) {
-            newTail = newTail->next;
-        }
+        int steps=len-k;
+        ListNode* newtail=head;
+        for(int i=1;i<steps;i++) newtail=newtail->next; 
 
-        // New head is next of newTail
-        ListNode* newHead = newTail->next;
-        newTail->next = nullptr;
+        ListNode* newhead=newtail->next; 
+        newtail->next=NULL; // break
 
-        return newHead;
+        return newhead;
     }
 };
