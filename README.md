@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/omprakash1310/DSA-Codes/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/omprakash1310/DSA-Codes/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/omprakash1310/DSA-Codes/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1914-cyclically-rotating-a-grid](https://github.com/omprakash1310/DSA-Codes/tree/master/1914-cyclically-rotating-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/omprakash1310/DSA-Codes/tree/master/1917-maximum-average-pass-ratio) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/omprakash1310/DSA-Codes/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/omprakash1310/DSA-Codes/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/omprakash1310/DSA-Codes/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/omprakash1310/DSA-Codes/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/omprakash1310/DSA-Codes/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1914-cyclically-rotating-a-grid](https://github.com/omprakash1310/DSA-Codes/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/omprakash1310/DSA-Codes/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/omprakash1310/DSA-Codes/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/omprakash1310/DSA-Codes/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/omprakash1310/DSA-Codes/tree/master/1628-count-submatrices-with-all-ones) |
 | [1861-rotating-the-box](https://github.com/omprakash1310/DSA-Codes/tree/master/1861-rotating-the-box) |
+| [1914-cyclically-rotating-a-grid](https://github.com/omprakash1310/DSA-Codes/tree/master/1914-cyclically-rotating-a-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/omprakash1310/DSA-Codes/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/omprakash1310/DSA-Codes/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/omprakash1310/DSA-Codes/tree/master/2244-number-of-laser-beams-in-a-bank) |
