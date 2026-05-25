@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/omprakash1310/DSA-Codes/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/omprakash1310/DSA-Codes/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/omprakash1310/DSA-Codes/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1871-jump-game-vii](https://github.com/omprakash1310/DSA-Codes/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/omprakash1310/DSA-Codes/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2054-two-best-non-overlapping-events](https://github.com/omprakash1310/DSA-Codes/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/omprakash1310/DSA-Codes/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -631,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/omprakash1310/DSA-Codes/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/omprakash1310/DSA-Codes/tree/master/1590-make-sum-divisible-by-p) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/omprakash1310/DSA-Codes/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1871-jump-game-vii](https://github.com/omprakash1310/DSA-Codes/tree/master/1871-jump-game-vii) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/omprakash1310/DSA-Codes/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/omprakash1310/DSA-Codes/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/omprakash1310/DSA-Codes/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -872,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/omprakash1310/DSA-Codes/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/omprakash1310/DSA-Codes/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/omprakash1310/DSA-Codes/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1871-jump-game-vii](https://github.com/omprakash1310/DSA-Codes/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/omprakash1310/DSA-Codes/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1904-second-largest-digit-in-a-string](https://github.com/omprakash1310/DSA-Codes/tree/master/1904-second-largest-digit-in-a-string) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/omprakash1310/DSA-Codes/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -1020,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0867-new-21-game](https://github.com/omprakash1310/DSA-Codes/tree/master/0867-new-21-game) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/omprakash1310/DSA-Codes/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1871-jump-game-vii](https://github.com/omprakash1310/DSA-Codes/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/omprakash1310/DSA-Codes/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/omprakash1310/DSA-Codes/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/omprakash1310/DSA-Codes/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
