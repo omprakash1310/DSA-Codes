@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3625-count-number-of-trapezoids-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/omprakash1310/DSA-Codes/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3634-minimum-removals-to-balance-array](https://github.com/omprakash1310/DSA-Codes/tree/master/3634-minimum-removals-to-balance-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3637-trionic-array-i](https://github.com/omprakash1310/DSA-Codes/tree/master/3637-trionic-array-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3640-trionic-array-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/3640-trionic-array-ii) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/omprakash1310/DSA-Codes/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/omprakash1310/DSA-Codes/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/omprakash1310/DSA-Codes/tree/master/3634-minimum-removals-to-balance-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/omprakash1310/DSA-Codes/tree/master/3748-sort-matrix-by-diagonals) |
 ## Counting
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/omprakash1310/DSA-Codes/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/omprakash1310/DSA-Codes/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/omprakash1310/DSA-Codes/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/omprakash1310/DSA-Codes/tree/master/3643-flip-square-submatrix-vertically) |
 ## Simulation
 |  |
@@ -706,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3454-separate-squares-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/3454-separate-squares-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/omprakash1310/DSA-Codes/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/omprakash1310/DSA-Codes/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/3790-fruits-into-baskets-ii) |
 | [3827-implement-router](https://github.com/omprakash1310/DSA-Codes/tree/master/3827-implement-router) |
@@ -807,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/omprakash1310/DSA-Codes/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/omprakash1310/DSA-Codes/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/omprakash1310/DSA-Codes/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/omprakash1310/DSA-Codes/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/omprakash1310/DSA-Codes/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Linked List
