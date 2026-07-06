@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/omprakash1310/DSA-Codes/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1200-minimum-absolute-difference](https://github.com/omprakash1310/DSA-Codes/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/omprakash1310/DSA-Codes/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1288-remove-covered-intervals](https://github.com/omprakash1310/DSA-Codes/tree/master/1288-remove-covered-intervals) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/omprakash1310/DSA-Codes/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1306-jump-game-iii](https://github.com/omprakash1310/DSA-Codes/tree/master/1306-jump-game-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/omprakash1310/DSA-Codes/tree/master/1319-unique-number-of-occurrences) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/omprakash1310/DSA-Codes/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/omprakash1310/DSA-Codes/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/omprakash1310/DSA-Codes/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1288-remove-covered-intervals](https://github.com/omprakash1310/DSA-Codes/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/omprakash1310/DSA-Codes/tree/master/1340-jump-game-v) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/omprakash1310/DSA-Codes/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/omprakash1310/DSA-Codes/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
