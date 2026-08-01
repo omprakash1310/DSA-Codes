@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/omprakash1310/DSA-Codes/tree/master/0417-pacific-atlantic-water-flow) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/omprakash1310/DSA-Codes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/omprakash1310/DSA-Codes/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/omprakash1310/DSA-Codes/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/omprakash1310/DSA-Codes/tree/master/0493-reverse-pairs) |
 | [0498-diagonal-traverse](https://github.com/omprakash1310/DSA-Codes/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/omprakash1310/DSA-Codes/tree/master/0540-single-element-in-a-sorted-array) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/omprakash1310/DSA-Codes/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/omprakash1310/DSA-Codes/tree/master/0410-split-array-largest-sum) |
 | [0474-ones-and-zeroes](https://github.com/omprakash1310/DSA-Codes/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/omprakash1310/DSA-Codes/tree/master/0486-predict-the-winner) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/omprakash1310/DSA-Codes/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/omprakash1310/DSA-Codes/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/omprakash1310/DSA-Codes/tree/master/0799-champagne-tower) |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/omprakash1310/DSA-Codes/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/omprakash1310/DSA-Codes/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/omprakash1310/DSA-Codes/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/omprakash1310/DSA-Codes/tree/master/0486-predict-the-winner) |
 | [0679-24-game](https://github.com/omprakash1310/DSA-Codes/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/omprakash1310/DSA-Codes/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/omprakash1310/DSA-Codes/tree/master/0788-rotated-digits) |
@@ -947,6 +950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/omprakash1310/DSA-Codes/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/omprakash1310/DSA-Codes/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/omprakash1310/DSA-Codes/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/omprakash1310/DSA-Codes/tree/master/0486-predict-the-winner) |
 ## String
 |  |
 | ------- |
@@ -1304,6 +1308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/omprakash1310/DSA-Codes/tree/master/0486-predict-the-winner) |
 | [3462-vowels-game-in-a-string](https://github.com/omprakash1310/DSA-Codes/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
 |  |
