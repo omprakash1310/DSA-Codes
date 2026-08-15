@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3660-jump-game-ix](https://github.com/omprakash1310/DSA-Codes/tree/master/3660-jump-game-ix) |
 | [3689-maximum-total-subarray-value-i](https://github.com/omprakash1310/DSA-Codes/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/omprakash1310/DSA-Codes/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3719-longest-balanced-subarray-i](https://github.com/omprakash1310/DSA-Codes/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/3721-longest-balanced-subarray-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/omprakash1310/DSA-Codes/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -887,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/omprakash1310/DSA-Codes/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/omprakash1310/DSA-Codes/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/omprakash1310/DSA-Codes/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/omprakash1310/DSA-Codes/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Greedy
