@@ -691,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/omprakash1310/DSA-Codes/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/omprakash1310/DSA-Codes/tree/master/1840-maximum-building-height) |
 | [1925-count-square-sum-triples](https://github.com/omprakash1310/DSA-Codes/tree/master/1925-count-square-sum-triples) |
+| [1927-sum-game](https://github.com/omprakash1310/DSA-Codes/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/omprakash1310/DSA-Codes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/omprakash1310/DSA-Codes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2029-stone-game-ix](https://github.com/omprakash1310/DSA-Codes/tree/master/2029-stone-game-ix) |
@@ -932,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/omprakash1310/DSA-Codes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/omprakash1310/DSA-Codes/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/omprakash1310/DSA-Codes/tree/master/1917-maximum-average-pass-ratio) |
+| [1927-sum-game](https://github.com/omprakash1310/DSA-Codes/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/omprakash1310/DSA-Codes/tree/master/2029-stone-game-ix) |
 | [2032-largest-odd-number-in-string](https://github.com/omprakash1310/DSA-Codes/tree/master/2032-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/omprakash1310/DSA-Codes/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -1041,6 +1043,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/omprakash1310/DSA-Codes/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/omprakash1310/DSA-Codes/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1904-second-largest-digit-in-a-string](https://github.com/omprakash1310/DSA-Codes/tree/master/1904-second-largest-digit-in-a-string) |
+| [1927-sum-game](https://github.com/omprakash1310/DSA-Codes/tree/master/1927-sum-game) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/omprakash1310/DSA-Codes/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/omprakash1310/DSA-Codes/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2032-largest-odd-number-in-string](https://github.com/omprakash1310/DSA-Codes/tree/master/2032-largest-odd-number-in-string) |
@@ -1352,6 +1355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/omprakash1310/DSA-Codes/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/omprakash1310/DSA-Codes/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/omprakash1310/DSA-Codes/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/omprakash1310/DSA-Codes/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/omprakash1310/DSA-Codes/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
