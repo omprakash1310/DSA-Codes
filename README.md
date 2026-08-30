@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/omprakash1310/DSA-Codes/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2054-two-best-non-overlapping-events](https://github.com/omprakash1310/DSA-Codes/tree/master/2054-two-best-non-overlapping-events) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/omprakash1310/DSA-Codes/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/omprakash1310/DSA-Codes/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/omprakash1310/DSA-Codes/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/omprakash1310/DSA-Codes/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2126-destroying-asteroids](https://github.com/omprakash1310/DSA-Codes/tree/master/2126-destroying-asteroids) |
@@ -947,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/omprakash1310/DSA-Codes/tree/master/2029-stone-game-ix) |
 | [2032-largest-odd-number-in-string](https://github.com/omprakash1310/DSA-Codes/tree/master/2032-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/omprakash1310/DSA-Codes/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/omprakash1310/DSA-Codes/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/omprakash1310/DSA-Codes/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/omprakash1310/DSA-Codes/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/omprakash1310/DSA-Codes/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
