@@ -479,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/omprakash1310/DSA-Codes/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/omprakash1310/DSA-Codes/tree/master/0867-new-21-game) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/omprakash1310/DSA-Codes/tree/master/0898-bitwise-ors-of-subarrays) |
+| [0940-distinct-subsequences-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/0940-distinct-subsequences-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/omprakash1310/DSA-Codes/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/omprakash1310/DSA-Codes/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1140-stone-game-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/1140-stone-game-ii) |
@@ -1045,6 +1046,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/omprakash1310/DSA-Codes/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/omprakash1310/DSA-Codes/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/omprakash1310/DSA-Codes/tree/master/0812-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/0940-distinct-subsequences-ii) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/omprakash1310/DSA-Codes/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/omprakash1310/DSA-Codes/tree/master/1006-vowel-spellchecker) |
