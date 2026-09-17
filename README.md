@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/omprakash1310/DSA-Codes/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/omprakash1310/DSA-Codes/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/omprakash1310/DSA-Codes/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/omprakash1310/DSA-Codes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/omprakash1310/DSA-Codes/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/omprakash1310/DSA-Codes/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1563-stone-game-v](https://github.com/omprakash1310/DSA-Codes/tree/master/1563-stone-game-v) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/omprakash1310/DSA-Codes/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1386-cinema-seat-allocation](https://github.com/omprakash1310/DSA-Codes/tree/master/1386-cinema-seat-allocation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/omprakash1310/DSA-Codes/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/omprakash1310/DSA-Codes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/omprakash1310/DSA-Codes/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/omprakash1310/DSA-Codes/tree/master/1612-avoid-flood-in-the-city) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/omprakash1310/DSA-Codes/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/omprakash1310/DSA-Codes/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/omprakash1310/DSA-Codes/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/omprakash1310/DSA-Codes/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/omprakash1310/DSA-Codes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/omprakash1310/DSA-Codes/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/omprakash1310/DSA-Codes/tree/master/1563-stone-game-v) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/omprakash1310/DSA-Codes/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -841,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/omprakash1310/DSA-Codes/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/omprakash1310/DSA-Codes/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/omprakash1310/DSA-Codes/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/omprakash1310/DSA-Codes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/omprakash1310/DSA-Codes/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1612-avoid-flood-in-the-city](https://github.com/omprakash1310/DSA-Codes/tree/master/1612-avoid-flood-in-the-city) |
 | [1646-kth-missing-positive-number](https://github.com/omprakash1310/DSA-Codes/tree/master/1646-kth-missing-positive-number) |
@@ -1265,6 +1269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/omprakash1310/DSA-Codes/tree/master/0867-new-21-game) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/omprakash1310/DSA-Codes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/omprakash1310/DSA-Codes/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1871-jump-game-vii](https://github.com/omprakash1310/DSA-Codes/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/omprakash1310/DSA-Codes/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
