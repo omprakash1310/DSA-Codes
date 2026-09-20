@@ -710,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/omprakash1310/DSA-Codes/tree/master/1018-largest-perimeter-triangle) |
 | [1140-stone-game-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/1140-stone-game-ii) |
 | [1390-four-divisors](https://github.com/omprakash1310/DSA-Codes/tree/master/1390-four-divisors) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/omprakash1310/DSA-Codes/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/omprakash1310/DSA-Codes/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/omprakash1310/DSA-Codes/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1510-stone-game-iv](https://github.com/omprakash1310/DSA-Codes/tree/master/1510-stone-game-iv) |
@@ -1366,6 +1367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/omprakash1310/DSA-Codes/tree/master/0830-largest-triangle-area) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/omprakash1310/DSA-Codes/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/omprakash1310/DSA-Codes/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/omprakash1310/DSA-Codes/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
