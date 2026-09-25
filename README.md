@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/omprakash1310/DSA-Codes/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/omprakash1310/DSA-Codes/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/omprakash1310/DSA-Codes/tree/master/1006-vowel-spellchecker) |
+| [1096-brace-expansion-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/omprakash1310/DSA-Codes/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/omprakash1310/DSA-Codes/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/omprakash1310/DSA-Codes/tree/master/1319-unique-number-of-occurrences) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/omprakash1310/DSA-Codes/tree/master/0759-set-intersection-size-at-least-two) |
 | [0761-special-binary-string](https://github.com/omprakash1310/DSA-Codes/tree/master/0761-special-binary-string) |
 | [1018-largest-perimeter-triangle](https://github.com/omprakash1310/DSA-Codes/tree/master/1018-largest-perimeter-triangle) |
+| [1096-brace-expansion-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/1096-brace-expansion-ii) |
 | [1200-minimum-absolute-difference](https://github.com/omprakash1310/DSA-Codes/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/omprakash1310/DSA-Codes/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/omprakash1310/DSA-Codes/tree/master/1288-remove-covered-intervals) |
@@ -1084,6 +1086,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/omprakash1310/DSA-Codes/tree/master/1006-vowel-spellchecker) |
 | [1078-remove-outermost-parentheses](https://github.com/omprakash1310/DSA-Codes/tree/master/1078-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/omprakash1310/DSA-Codes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/omprakash1310/DSA-Codes/tree/master/1189-maximum-number-of-balloons) |
 | [1250-longest-common-subsequence](https://github.com/omprakash1310/DSA-Codes/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/omprakash1310/DSA-Codes/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -1163,6 +1166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/omprakash1310/DSA-Codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/omprakash1310/DSA-Codes/tree/master/1078-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/omprakash1310/DSA-Codes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/1096-brace-expansion-ii) |
 | [1628-count-submatrices-with-all-ones](https://github.com/omprakash1310/DSA-Codes/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/omprakash1310/DSA-Codes/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/omprakash1310/DSA-Codes/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -1181,6 +1185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/omprakash1310/DSA-Codes/tree/master/0077-combinations) |
 | [0401-binary-watch](https://github.com/omprakash1310/DSA-Codes/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/omprakash1310/DSA-Codes/tree/master/0679-24-game) |
+| [1096-brace-expansion-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/omprakash1310/DSA-Codes/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/omprakash1310/DSA-Codes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/omprakash1310/DSA-Codes/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
@@ -1394,6 +1399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/omprakash1310/DSA-Codes/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/omprakash1310/DSA-Codes/tree/master/0794-swim-in-rising-water) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/omprakash1310/DSA-Codes/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1096-brace-expansion-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/omprakash1310/DSA-Codes/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/omprakash1310/DSA-Codes/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/omprakash1310/DSA-Codes/tree/master/1345-jump-game-iv) |
