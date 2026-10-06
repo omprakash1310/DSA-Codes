@@ -978,6 +978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/omprakash1310/DSA-Codes/tree/master/0611-valid-triangle-number) |
 | [0678-valid-parenthesis-string](https://github.com/omprakash1310/DSA-Codes/tree/master/0678-valid-parenthesis-string) |
 | [0759-set-intersection-size-at-least-two](https://github.com/omprakash1310/DSA-Codes/tree/master/0759-set-intersection-size-at-least-two) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/omprakash1310/DSA-Codes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/omprakash1310/DSA-Codes/tree/master/1018-largest-perimeter-triangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/omprakash1310/DSA-Codes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -1089,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/omprakash1310/DSA-Codes/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/omprakash1310/DSA-Codes/tree/master/0812-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/omprakash1310/DSA-Codes/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/omprakash1310/DSA-Codes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/0940-distinct-subsequences-ii) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/omprakash1310/DSA-Codes/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -1178,6 +1180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/omprakash1310/DSA-Codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/omprakash1310/DSA-Codes/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/omprakash1310/DSA-Codes/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/omprakash1310/DSA-Codes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/omprakash1310/DSA-Codes/tree/master/1078-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/omprakash1310/DSA-Codes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/1096-brace-expansion-ii) |
@@ -1569,6 +1572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/omprakash1310/DSA-Codes/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/omprakash1310/DSA-Codes/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/omprakash1310/DSA-Codes/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/omprakash1310/DSA-Codes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/omprakash1310/DSA-Codes/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/omprakash1310/DSA-Codes/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/omprakash1310/DSA-Codes/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
