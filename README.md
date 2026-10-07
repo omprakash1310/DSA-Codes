@@ -1078,6 +1078,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/omprakash1310/DSA-Codes/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/omprakash1310/DSA-Codes/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/omprakash1310/DSA-Codes/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/omprakash1310/DSA-Codes/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/omprakash1310/DSA-Codes/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/omprakash1310/DSA-Codes/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/omprakash1310/DSA-Codes/tree/master/0474-ones-and-zeroes) |
@@ -1202,6 +1203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/omprakash1310/DSA-Codes/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/omprakash1310/DSA-Codes/tree/master/0077-combinations) |
+| [0301-remove-invalid-parentheses](https://github.com/omprakash1310/DSA-Codes/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/omprakash1310/DSA-Codes/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/omprakash1310/DSA-Codes/tree/master/0679-24-game) |
 | [1096-brace-expansion-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/1096-brace-expansion-ii) |
@@ -1414,6 +1416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/omprakash1310/DSA-Codes/tree/master/0100-same-tree) |
 | [0133-clone-graph](https://github.com/omprakash1310/DSA-Codes/tree/master/0133-clone-graph) |
+| [0301-remove-invalid-parentheses](https://github.com/omprakash1310/DSA-Codes/tree/master/0301-remove-invalid-parentheses) |
 | [0407-trapping-rain-water-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/omprakash1310/DSA-Codes/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/omprakash1310/DSA-Codes/tree/master/0794-swim-in-rising-water) |
