@@ -766,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/omprakash1310/DSA-Codes/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/omprakash1310/DSA-Codes/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/omprakash1310/DSA-Codes/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2409-count-days-spent-together](https://github.com/omprakash1310/DSA-Codes/tree/master/2409-count-days-spent-together) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/omprakash1310/DSA-Codes/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/omprakash1310/DSA-Codes/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/omprakash1310/DSA-Codes/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -1165,6 +1166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/omprakash1310/DSA-Codes/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/omprakash1310/DSA-Codes/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/omprakash1310/DSA-Codes/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2409-count-days-spent-together](https://github.com/omprakash1310/DSA-Codes/tree/master/2409-count-days-spent-together) |
 | [2429-design-a-food-rating-system](https://github.com/omprakash1310/DSA-Codes/tree/master/2429-design-a-food-rating-system) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/omprakash1310/DSA-Codes/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/omprakash1310/DSA-Codes/tree/master/2483-minimum-penalty-for-a-shop) |
