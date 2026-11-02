@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/omprakash1310/DSA-Codes/tree/master/0417-pacific-atlantic-water-flow) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/omprakash1310/DSA-Codes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/omprakash1310/DSA-Codes/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/omprakash1310/DSA-Codes/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/omprakash1310/DSA-Codes/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/omprakash1310/DSA-Codes/tree/master/0493-reverse-pairs) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/omprakash1310/DSA-Codes/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/omprakash1310/DSA-Codes/tree/master/0242-valid-anagram) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0611-valid-triangle-number](https://github.com/omprakash1310/DSA-Codes/tree/master/0611-valid-triangle-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/omprakash1310/DSA-Codes/tree/master/0759-set-intersection-size-at-least-two) |
 | [0761-special-binary-string](https://github.com/omprakash1310/DSA-Codes/tree/master/0761-special-binary-string) |
@@ -742,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/omprakash1310/DSA-Codes/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/omprakash1310/DSA-Codes/tree/master/0342-power-of-four) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/omprakash1310/DSA-Codes/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/omprakash1310/DSA-Codes/tree/master/0486-predict-the-winner) |
 | [0679-24-game](https://github.com/omprakash1310/DSA-Codes/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/omprakash1310/DSA-Codes/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
