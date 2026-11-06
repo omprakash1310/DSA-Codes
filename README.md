@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/omprakash1310/DSA-Codes/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/omprakash1310/DSA-Codes/tree/master/2625-increment-submatrices-by-one) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/omprakash1310/DSA-Codes/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/omprakash1310/DSA-Codes/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/omprakash1310/DSA-Codes/tree/master/2751-robot-collisions) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/omprakash1310/DSA-Codes/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/omprakash1310/DSA-Codes/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/omprakash1310/DSA-Codes/tree/master/2429-design-a-food-rating-system) |
 | [2615-sum-of-distances](https://github.com/omprakash1310/DSA-Codes/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/omprakash1310/DSA-Codes/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/omprakash1310/DSA-Codes/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/omprakash1310/DSA-Codes/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/omprakash1310/DSA-Codes/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/omprakash1310/DSA-Codes/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/omprakash1310/DSA-Codes/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2463-minimum-total-distance-traveled](https://github.com/omprakash1310/DSA-Codes/tree/master/2463-minimum-total-distance-traveled) |
+| [2747-count-zero-request-servers](https://github.com/omprakash1310/DSA-Codes/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/omprakash1310/DSA-Codes/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/omprakash1310/DSA-Codes/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -1376,6 +1379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/omprakash1310/DSA-Codes/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/omprakash1310/DSA-Codes/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/omprakash1310/DSA-Codes/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2747-count-zero-request-servers](https://github.com/omprakash1310/DSA-Codes/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/omprakash1310/DSA-Codes/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/omprakash1310/DSA-Codes/tree/master/3090-maximum-length-substring-with-two-occurrences) |
