@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/omprakash1310/DSA-Codes/tree/master/1861-rotating-the-box) |
 | [1872-stone-game-viii](https://github.com/omprakash1310/DSA-Codes/tree/master/1872-stone-game-viii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/omprakash1310/DSA-Codes/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1882-process-tasks-using-servers](https://github.com/omprakash1310/DSA-Codes/tree/master/1882-process-tasks-using-servers) |
 | [1914-cyclically-rotating-a-grid](https://github.com/omprakash1310/DSA-Codes/tree/master/1914-cyclically-rotating-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/omprakash1310/DSA-Codes/tree/master/1917-maximum-average-pass-ratio) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/omprakash1310/DSA-Codes/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -1273,6 +1274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/omprakash1310/DSA-Codes/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/omprakash1310/DSA-Codes/tree/master/1612-avoid-flood-in-the-city) |
+| [1882-process-tasks-using-servers](https://github.com/omprakash1310/DSA-Codes/tree/master/1882-process-tasks-using-servers) |
 | [1917-maximum-average-pass-ratio](https://github.com/omprakash1310/DSA-Codes/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/omprakash1310/DSA-Codes/tree/master/2023-design-movie-rental-system) |
 | [2054-two-best-non-overlapping-events](https://github.com/omprakash1310/DSA-Codes/tree/master/2054-two-best-non-overlapping-events) |
