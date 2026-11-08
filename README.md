@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/omprakash1310/DSA-Codes/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/omprakash1310/DSA-Codes/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/omprakash1310/DSA-Codes/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1267-count-servers-that-communicate](https://github.com/omprakash1310/DSA-Codes/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/omprakash1310/DSA-Codes/tree/master/1288-remove-covered-intervals) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/omprakash1310/DSA-Codes/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1306-jump-game-iii](https://github.com/omprakash1310/DSA-Codes/tree/master/1306-jump-game-iii) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/omprakash1310/DSA-Codes/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/0229-majority-element-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/omprakash1310/DSA-Codes/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/omprakash1310/DSA-Codes/tree/master/1267-count-servers-that-communicate) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/omprakash1310/DSA-Codes/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2029-stone-game-ix](https://github.com/omprakash1310/DSA-Codes/tree/master/2029-stone-game-ix) |
 | [2833-furthest-point-from-origin](https://github.com/omprakash1310/DSA-Codes/tree/master/2833-furthest-point-from-origin) |
@@ -694,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/omprakash1310/DSA-Codes/tree/master/0794-swim-in-rising-water) |
 | [1254-number-of-closed-islands](https://github.com/omprakash1310/DSA-Codes/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/omprakash1310/DSA-Codes/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/omprakash1310/DSA-Codes/tree/master/1267-count-servers-that-communicate) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/omprakash1310/DSA-Codes/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/omprakash1310/DSA-Codes/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/omprakash1310/DSA-Codes/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1433,6 +1436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/omprakash1310/DSA-Codes/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/omprakash1310/DSA-Codes/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/omprakash1310/DSA-Codes/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/omprakash1310/DSA-Codes/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/omprakash1310/DSA-Codes/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/omprakash1310/DSA-Codes/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/omprakash1310/DSA-Codes/tree/master/1382-balance-a-binary-search-tree) |
@@ -1488,6 +1492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/omprakash1310/DSA-Codes/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/omprakash1310/DSA-Codes/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/omprakash1310/DSA-Codes/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/omprakash1310/DSA-Codes/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/omprakash1310/DSA-Codes/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/omprakash1310/DSA-Codes/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1594,6 +1599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/omprakash1310/DSA-Codes/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/omprakash1310/DSA-Codes/tree/master/1267-count-servers-that-communicate) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/omprakash1310/DSA-Codes/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/omprakash1310/DSA-Codes/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/omprakash1310/DSA-Codes/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
