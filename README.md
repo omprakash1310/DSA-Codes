@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/omprakash1310/DSA-Codes/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/omprakash1310/DSA-Codes/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/omprakash1310/DSA-Codes/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/omprakash1310/DSA-Codes/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/omprakash1310/DSA-Codes/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/omprakash1310/DSA-Codes/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/omprakash1310/DSA-Codes/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -956,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/omprakash1310/DSA-Codes/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3161-block-placement-queries](https://github.com/omprakash1310/DSA-Codes/tree/master/3161-block-placement-queries) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/omprakash1310/DSA-Codes/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3454-separate-squares-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/3454-separate-squares-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/omprakash1310/DSA-Codes/tree/master/3719-longest-balanced-subarray-i) |
@@ -1257,6 +1259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/omprakash1310/DSA-Codes/tree/master/2211-count-collisions-on-a-road) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/omprakash1310/DSA-Codes/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2751-robot-collisions](https://github.com/omprakash1310/DSA-Codes/tree/master/2751-robot-collisions) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/omprakash1310/DSA-Codes/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/omprakash1310/DSA-Codes/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Backtracking
 |  |
@@ -1392,6 +1395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/omprakash1310/DSA-Codes/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/omprakash1310/DSA-Codes/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/omprakash1310/DSA-Codes/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/omprakash1310/DSA-Codes/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/omprakash1310/DSA-Codes/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -1412,6 +1416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/omprakash1310/DSA-Codes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1628-count-submatrices-with-all-ones](https://github.com/omprakash1310/DSA-Codes/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/omprakash1310/DSA-Codes/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/omprakash1310/DSA-Codes/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/omprakash1310/DSA-Codes/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Tree
 |  |
@@ -1517,6 +1522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/omprakash1310/DSA-Codes/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/omprakash1310/DSA-Codes/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/omprakash1310/DSA-Codes/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/omprakash1310/DSA-Codes/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3827-implement-router](https://github.com/omprakash1310/DSA-Codes/tree/master/3827-implement-router) |
 ## Brainteaser
@@ -1561,6 +1567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/omprakash1310/DSA-Codes/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/omprakash1310/DSA-Codes/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Line Sweep
 |  |
