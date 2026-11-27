@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3882-minimum-xor-path-in-a-grid](https://github.com/omprakash1310/DSA-Codes/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/omprakash1310/DSA-Codes/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/3904-smallest-stable-index-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/omprakash1310/DSA-Codes/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -596,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/omprakash1310/DSA-Codes/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/omprakash1310/DSA-Codes/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/omprakash1310/DSA-Codes/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/omprakash1310/DSA-Codes/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1097,6 +1099,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/omprakash1310/DSA-Codes/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/omprakash1310/DSA-Codes/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/omprakash1310/DSA-Codes/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/omprakash1310/DSA-Codes/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Linked List
 |  |
 | ------- |
